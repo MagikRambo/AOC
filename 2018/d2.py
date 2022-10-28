@@ -14,7 +14,6 @@ with open('./2018/day2/input.txt') as f:
 
         #use counter.Values() to get values
         two = 0
-        two_1 = 0
         three = 0
         for line in lines:
         
